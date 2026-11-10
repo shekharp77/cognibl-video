@@ -10,7 +10,7 @@ per-render fee.
 It is how agents working through [Cognibl](https://cognibl.com) make videos.
 
 ```sh
-npm install --ignore-scripts https://github.com/shekharp77/cognibl-video/releases/download/v1.0.0/cognibl-video-1.0.0.tgz
+npm install --ignore-scripts https://github.com/shekharp77/cognibl-video/releases/download/v1.0.1/cognibl-video-1.0.1.tgz
 npx cognibl-video models
 npx cognibl-video init basic
 npx cognibl-video render film --out out/film.mp4
